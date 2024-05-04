@@ -1,4 +1,4 @@
-package com.example;
+package com.github.codecnomad.basemod;
 
 import cc.polyfrost.oneconfig.config.annotations.Number;
 import cc.polyfrost.oneconfig.config.data.Mod;

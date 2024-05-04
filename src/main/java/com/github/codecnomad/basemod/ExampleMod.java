@@ -1,9 +1,9 @@
-package com.example;
+package com.github.codecnomad.basemod;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 
-@Mod(modid = "examplemod", useMetadata = true)
+@Mod(modid = "basemod", useMetadata = true)
 public class ExampleMod {
     public static Config config;
 

@@ -1,4 +1,4 @@
-package com.example.command;
+package com.github.codecnomad.basemod.command;
 
 import cc.polyfrost.oneconfig.utils.commands.annotations.Command;
 import cc.polyfrost.oneconfig.utils.commands.annotations.Main;
